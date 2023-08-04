@@ -4,6 +4,7 @@ We have run React(Client/FrontEnd) on `localhost:3000` and Express(Server/BackEn
 We have set `"proxy":"http://localhost:3001"` in  `client/package.json` to ensure that we can make relative requests to the server and avoid a lot hassle
 ```
 git clone https://github.com/krishnanshagarwal112/react-express-starter.git
+cd react-express-starter
 ```
 
 For client
